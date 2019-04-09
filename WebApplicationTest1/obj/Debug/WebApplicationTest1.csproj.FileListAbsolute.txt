@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Visual Studio 2019\Websites\WebApplicationTest1\bin\WebApplicationTest1.dll.config
+C:\Users\Admin\Documents\Visual Studio 2019\Websites\WebApplicationTest1\bin\WebApplicationTest1.dll
+C:\Users\Admin\Documents\Visual Studio 2019\Websites\WebApplicationTest1\bin\WebApplicationTest1.pdb
+C:\Users\Admin\Documents\Visual Studio 2019\Websites\WebApplicationTest1\obj\Debug\WebApplicationTest1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2019\Websites\WebApplicationTest1\obj\Debug\WebApplicationTest1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2019\Websites\WebApplicationTest1\obj\Debug\WebApplicationTest1.dll
+C:\Users\Admin\Documents\Visual Studio 2019\Websites\WebApplicationTest1\obj\Debug\WebApplicationTest1.pdb
